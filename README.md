@@ -14,4 +14,4 @@
 
 > python manage.py runserver
 
-Hit localhost:8000 or 127.0.0.1:8000 and that's it!
+Try now with localhost:8000
